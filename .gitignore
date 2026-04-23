@@ -1,0 +1,27 @@
+# Build artifacts
+/target/
+/out/
+
+# Test and reporting artifacts
+/allure-results/
+/allure-report/
+/test-output/
+/screenshots/
+
+# Runtime logs and diagnostics
+*.log
+/logs/
+
+# IDE files
+/.idea/
+/.vscode/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
